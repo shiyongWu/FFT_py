@@ -29,5 +29,5 @@ NTT(DFT over the finite field)function 實現
 
 
 
-### eadme version 1.0
-其餘function敘述待補 2021/03/13
+//Readme version 1.0
+//其餘function敘述待補 2021/03/13
