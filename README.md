@@ -24,9 +24,10 @@ NTT_init，在計算NTT轉換所使用的n-th primitive root of unity
 ## NTT.py
 NTT(DFT over the finite field)function 實現
 | module name | descript |
+| ------------|----------|
 | NTT(x,ROU,prime,n,inverse)| x: input data sequence, ROU: primitive root of unity, n: the length of the input sequence, inverse: must be zero or one, inverse is 1代表執行INTT|
 
 
 
-### readme version 1.0
+### eadme version 1.0
 其餘function敘述待補 2021/03/13
