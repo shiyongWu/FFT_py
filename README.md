@@ -14,7 +14,7 @@ implement modular operation,實現NTT運算時會用到的模運算。
 |  InvMod(a,P) | 求出 a在模數P下的乘法反元素|
 |   XGCD(a,P)  | 輾轉相除法|
 
-##NTT_init.py 
+## NTT_init.py 
 NTT_init，在計算NTT轉換所使用的n-th primitive root of unity
 | module name | descript |
 |-------------|----------|
