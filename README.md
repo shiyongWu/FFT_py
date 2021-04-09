@@ -28,6 +28,13 @@ NTT(DFT over the finite field)function 實現
 | NTT(x,ROU,prime,n,inverse)| x: input data sequence, ROU: primitive root of unity, n: the length of the input sequence, inverse: must be zero or one, inverse is 1代表執行INTT|
 
 
+## FFT.py
+FFT(FFT over the finite field)function 實現
+|module name| descipt|
+|-----------|--------|
+| BU(A,B,P) | Radix-2 butterfly unit|
+| FFT(Array,P,root,N,inverse)| Radix-2 FFT(DIF)，當Inverse = 1 時代表執行IFFT|
 
-//Readme version 1.0
-//其餘function敘述待補 2021/03/13
+
+//Readme version 1.1
+//其餘function敘述待補 2021/04/9
