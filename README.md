@@ -37,4 +37,4 @@ FFT(FFT over the finite field)function 實現
 
 
 //Readme version 1.1
-//其餘function敘述待補 2021/04/9
+//At 2021/04/9
